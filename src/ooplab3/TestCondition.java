@@ -27,4 +27,4 @@ public class TestCondition {
 
     }//main
 
-}// ciass
+}// class
