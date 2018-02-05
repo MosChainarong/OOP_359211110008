@@ -2,8 +2,8 @@ package ooplab9;
 
 public class PersonApp {
     public static void main(String[] args) {
-        Person person = new Person("Thadarat","25435954213",
-                new Address("303/63 M.3","SuratThani","84140"),
+        Person person = new Person("Chainarong","123456789",
+                new Address("147/32 M.6","SuratThani","84000"),
                 new Job("Staff","20000"));
 
 
